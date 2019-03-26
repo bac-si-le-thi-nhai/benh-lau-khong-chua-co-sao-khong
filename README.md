@@ -1,0 +1,2 @@
+# benh-lau-khong-chua-co-sao-khong
+Bất kì chứng bệnh nào nếu không được chữa trị kịp thời đều sẽ diễn biến phức tạp, khó chữa hơn và ảnh hưởng lớn đến sức khỏe. Bệnh lậu không chữa có sao không là thắc mắc của nhiều người? Các triệu chứng của bệnh lậu cũng không quá rõ ràng do đó nhiều người lầm tưởng rằng bệnh lậu có thể tự khỏi mà không cần điều trị. Sự thiếu hiểu biết này chính là nguyên nhân khiến cho bệnh diễn biến phức tạp và dễ lây lan hơn trong cộng đồng. 
